@@ -1,11 +1,5 @@
 # Catstronauts
 
-Apollo's Lift-off course companion app (completed)
-
-[Live Demo App](https://lift-off-client-demo.netlify.app/)
-
-[Course Walk-through on Odyssey](https://odyssey.apollographql.com/lift-off-part1)
-
 ## Run the project
 
 Catstronauts full-stack app holds two main folders `server` and `client`.
