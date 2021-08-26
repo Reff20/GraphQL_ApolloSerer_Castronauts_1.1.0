@@ -9,6 +9,9 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
 })
 
+
+//Estou editando o código
+
 ReactDOM.render(
   <ApolloProvider client={client}>
     <GlobalStyles />
